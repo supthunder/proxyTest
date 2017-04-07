@@ -1,2 +1,0 @@
-# proxyTest
-Test proxies
